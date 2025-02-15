@@ -28,3 +28,9 @@ Fork 自 [markdown2html](https://github.com/TaleAi/markdown2html)，略有调整
 
 - [markdown2html](https://github.com/TaleAi/markdown2html)：markdown2html
 - [markdown nice](https://mdnice.com/)：markdown nice
+
+## 本地部署
+
+> node v16.20.0 (Error on node v20.12.0: `at new Hash (node:internal/crypto/hash:80:19)`)
+
+> yarn install
